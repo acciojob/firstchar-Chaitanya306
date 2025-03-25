@@ -4,7 +4,7 @@ function firstChar(text) {
 	for(let a of text){
 		if(a!==' ') return a
 	}
-	return ' '
+	return ''
 }
 
 // Do not change the code below
